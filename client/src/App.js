@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Tollywood Film Actors</h1>
       <h1>Megastar Chiranjeevi</h1>
+      <h1>Akkineni Nagarjuna</h1>
     </div>
   );
 }
